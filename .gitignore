@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+movie_models.joblib
+movie_recommendations.csv
+.env
